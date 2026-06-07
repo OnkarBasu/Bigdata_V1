@@ -1,0 +1,12 @@
+data/*.csv
+data/*.zip
+output/*.html
+# output PNG images are tracked for README display
+__pycache__/
+*.pyc
+.env
+*.egg-info/
+dist/
+.DS_Store
+spark-temp/
+D:/spark-temp/
